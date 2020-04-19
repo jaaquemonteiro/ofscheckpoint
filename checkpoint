@@ -1,0 +1,16 @@
+hospitala = ["Hospital Albert Einstein", "Hospital São Paulo", "Hospital Sírio Libanes", "Hospital São Camilo", "Hospital Vila Alpina", "Hospital Edmundo Vasconcelos", "Hospital Beneficiencia Portuguesa", "Hospital Santa Isabel", "Hospital Santa Cruz", "Hospital Samaritano", "Hospital 9 de Julho", "Hospital Santa Rita", "Hospital Ruben Berta", "Hospital Jardins", "Hospital Santo Expedito", "Hospital Santa Casa de Misericordia", "Hospital Salvalus", "Hospital São Luiz","Hospital Vila Lobos", "Hospital Tide Setubal", "Hospital Cidade Tiradentes", "Hospital Ermelino Matarazzo", "Hospital Itaquera", "Hospital Doutor Alexandre Zaio", "Hospital Planalto", "Hospital Geral de Guaianazes", "Hospital Montemagno", "Hospital Vila Maria", "Hospital Santa Paula", "Hospital Cantareira"]
+
+hospitalf = ["Hospital Samaritano ", "Hospital São Lucas", "Hospital Rio Mar", "Hospital São Vicente de Paulo", "Hospital Itaim Paulista", "Hospital Sapopemba", "Hospital Portuguesa"]
+
+tmp = input ("Qual hospital você deseja saber se está aberto para atendimento do covid-19?")
+
+    if x == tmp:
+        print ("Esse hospital encontra-se aberto")
+        break
+    else:
+            ("Esse hospital encontra-se aberto")
+for x in hospitalf:
+    if x == tmp: 
+     
+     print ("Esse hospital encontra-se fechado")
+     break
